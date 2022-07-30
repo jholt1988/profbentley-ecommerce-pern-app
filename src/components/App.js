@@ -5,6 +5,7 @@ import {
     Switch,
     Route
 } from "react-router-dom";
+import store from "../store/Store";
 
 
 function App() {
